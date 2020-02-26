@@ -8,7 +8,7 @@
 ** Description:Query the user to fill two m x n static matrices,display them,
 calculate and print a third matrix which is the sum of the first two.
 **
-** Author: 	Malania Wilson
+** Author: 	Momo
 ** Date: 	2/6/2017
 ** -------------------------------------------------------------------------*/
 //Resources Atds,C++ through gaming,
