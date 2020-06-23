@@ -7,7 +7,7 @@
 ** File: 	filename.cpp
 ** Description: Enter brief project description here.
 **
-** Author: 	Malania Wilson
+** Author: 	Momo
 ** Date: 	12/1/2015
 ** -------------------------------------------------------------------------*/
 
